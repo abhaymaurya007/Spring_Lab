@@ -1,0 +1,69 @@
+package com.nt.sbeans;
+
+import java.time.LocalDate;
+import java.time.LocalTime;
+
+public class WishMassageGenrator {
+	//private property || Composition
+	private LocalTime time;
+	private LocalDate date;
+	private Integer age;
+	public WishMassageGenrator(LocalTime time,LocalDate date) {
+		
+		this.time=time;
+		this.date=date;
+		System.out.println("contructor injection");
+	}
+	
+
+	
+
+	public void setAge(Integer age) {
+		this.age = age;
+	}
+
+
+
+
+	public String showWishMassage(String user) {
+		System.out.println("showwish maassage method  called.");
+		int hour=time.getHour();
+		if(hour<12) {
+			return "good morning"+user;
+			
+		}
+		else if(hour<12) {
+			return "good morning"+user;
+			
+		}
+		else if(hour<12) {
+			return "good morning"+user;
+			
+		}
+		else
+			return "good night"+user;
+		
+		
+		
+	}
+	public void showSeasonName() {
+		int m=date.getMonthValue();
+		if(m>2) {
+			System.out.println("Spring Season");
+			System.out.println("age    :"+age);
+		}
+		else if(m>4) {
+			System.out.println("Summer Season");
+		}
+		else if(m>6) {
+			System.out.println("Rainy Season");
+		}
+		else
+			System.out.println("winter Season");
+			
+		
+		
+		
+	}
+
+}

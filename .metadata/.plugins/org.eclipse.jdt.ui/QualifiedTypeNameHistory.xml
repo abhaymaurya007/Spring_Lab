@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="com.nt.beans.WishMassageGenrator"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.FileSystemXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.SeasonFinder"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.WeekDayFinder"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.nt.components.Demo"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="com.nt.components.StandardBike"/>
+    <fullyQualifiedTypeName name="com.nt.components.ElectricBike"/>
+    <fullyQualifiedTypeName name="com.nt.components.BulletBike"/>
+    <fullyQualifiedTypeName name="com.nt.components.SportBike"/>
+    <fullyQualifiedTypeName name="com.nt.factory.BikeFactory"/>
+    <fullyQualifiedTypeName name="com.nt.components.Bike"/>
+    <fullyQualifiedTypeName name="com.nt.components.Courier"/>
+    <fullyQualifiedTypeName name="com.nt.components.DTDC"/>
+    <fullyQualifiedTypeName name="com.nt.components.BlueDart"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="com.nt.components.Flipkart"/>
+    <fullyQualifiedTypeName name="com.nt.factory.FlipkartFactory"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.ICourier"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.Flipkart"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Lazy"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.Engine"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.nt.config.AppConfig"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.V8Engine"/>
+    <fullyQualifiedTypeName name="com.nt.sbeans.CAR"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+</qualifiedTypeNameHistroy>
